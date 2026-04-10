@@ -1,0 +1,2530 @@
+{
+  "IMP001": {
+    "id": "IMP001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP001.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP002": {
+    "id": "IMP002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cadaver Supplier ",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP002.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cadaver Supplier ",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP003": {
+    "id": "IMP003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calico, the Blood Witch ",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP003.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calico, the Blood Witch ",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP004": {
+    "id": "IMP004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demonic Berserker ",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP004.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demonic Berserker ",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP005": {
+    "id": "IMP005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP005.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP006": {
+    "id": "IMP006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP006.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP007": {
+    "id": "IMP007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP007.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP008": {
+    "id": "IMP008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP008.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP009": {
+    "id": "IMP009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP009.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP010": {
+    "id": "IMP010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucille, Blood Baroness",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP010.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucille, Blood Baroness ",
+    "type": "Unit",
+    "cost": "6"
+  },
+  "IMP011": {
+    "id": "IMP011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP011.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP012": {
+    "id": "IMP012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP012.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP013": {
+    "id": "IMP013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxhaven Enforcer",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP013.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxhaven Enforcer",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP014": {
+    "id": "IMP014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxhaven Researcher",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP014.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxhaven Researcher",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP015": {
+    "id": "IMP015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP015.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP016": {
+    "id": "IMP016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP016.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP017": {
+    "id": "IMP017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP017.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP018": {
+    "id": "IMP018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vampire Retainer",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP018.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vampire Retainer",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "IMP019": {
+    "id": "IMP019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vermillion, Ghastly Researcher",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP019.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vermillion, Ghastly Researcher ",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP020": {
+    "id": "IMP020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP020.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP021": {
+    "id": "IMP021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP021.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP022": {
+    "id": "IMP022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP022.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP023": {
+    "id": "IMP023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP023.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP024": {
+    "id": "IMP024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Unethical Research",
+        "type": "Tactic",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP024.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Unethical Research ",
+    "type": "Tactic",
+    "cost": "2"
+  },
+  "IMP025": {
+    "id": "IMP025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP025.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP026": {
+    "id": "IMP026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Killing Blow",
+        "type": "Tactic",
+        "cost": "5",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP026.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Killing Blow",
+    "type": "Tactic",
+    "cost": "5"
+  },
+  "IMP027": {
+    "id": "IMP027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quash Insurrection",
+        "type": "Tactic",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP027.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quash Insurrection",
+    "type": "Tactic",
+    "cost": "2"
+  },
+  "IMP028": {
+    "id": "IMP028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Experimental Augment",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP028.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experimental Augment",
+    "type": "Item",
+    "cost": "4"
+  },
+  "IMP029": {
+    "id": "IMP029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Explosive Augment",
+        "type": "Item",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP029.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Explosive Augment",
+    "type": "Item",
+    "cost": "2"
+  },
+  "IMP030": {
+    "id": "IMP030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP030.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP031": {
+    "id": "IMP031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noxhaven Laboratory ",
+        "type": "Territory",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP031.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noxhaven Laboratory",
+    "type": "Territory",
+    "cost": "2"
+  },
+  "IMP032": {
+    "id": "IMP032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP032.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP033": {
+    "id": "IMP033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP033.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP034": {
+    "id": "IMP034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP034.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP035": {
+    "id": "IMP035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP035.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP036": {
+    "id": "IMP036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armored Carrier",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP036.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armored Carrier",
+    "type": "Unit",
+    "cost": "6"
+  },
+  "IMP037": {
+    "id": "IMP037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Banner Squire",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP037.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banner Squire",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "IMP038": {
+    "id": "IMP038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP038.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP039": {
+    "id": "IMP039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bladewolf Templar",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP039.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bladewolf Templar",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP040": {
+    "id": "IMP040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP040.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brynn, the Destroyer",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP041": {
+    "id": "IMP041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Celeste, Concord Paladin",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP041.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Celeste, Concord Paladin",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP042": {
+    "id": "IMP042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Concord Strategist",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP042.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Concord Strategist",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP043": {
+    "id": "IMP043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Farsight Operative",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP043.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Farsight Operative",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP044": {
+    "id": "IMP044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frontline Officer",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP044.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frontline Officer",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP045": {
+    "id": "IMP045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nekora Medic",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP045.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nekora Medic",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP046": {
+    "id": "IMP046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Selena, Voice of Unity",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP046.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Selena, Voice of Unity",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP047": {
+    "id": "IMP047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sentinel Trooper",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP047.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sentinel Trooper",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP048": {
+    "id": "IMP048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP048.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP049": {
+    "id": "IMP049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP049.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP050": {
+    "id": "IMP050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Mech",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP050.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Mech",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP051": {
+    "id": "IMP051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP051.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP052": {
+    "id": "IMP052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Artillery Barrage",
+        "type": "Tactic",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP052.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Tactic",
+    "cost": "3"
+  },
+  "IMP053": {
+    "id": "IMP053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Community Effort",
+        "type": "Tactic",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP053.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Community Effort",
+    "type": "Tactic",
+    "cost": "3"
+  },
+  "IMP054": {
+    "id": "IMP054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP054.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP055": {
+    "id": "IMP055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Smokescreen",
+        "type": "Tactic",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP055.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Smokescreen",
+    "type": "Tactic",
+    "cost": "1"
+  },
+  "IMP056": {
+    "id": "IMP056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Supression",
+        "type": "Tactic",
+        "cost": "6",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP056.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supression",
+    "type": "Tactic",
+    "cost": "6"
+  },
+  "IMP057": {
+    "id": "IMP057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP057.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP058": {
+    "id": "IMP058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP058.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP059": {
+    "id": "IMP059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP059.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP060": {
+    "id": "IMP060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanguard Power Suit",
+        "type": "Item",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP060.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanguard Power Suit",
+    "type": "Item",
+    "cost": "4"
+  },
+  "IMP061": {
+    "id": "IMP061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP061.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP062": {
+    "id": "IMP062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hallowed Sanctum",
+        "type": "Territory",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP062.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hallowed Sanctum",
+    "type": "Territory",
+    "cost": "2"
+  },
+  "IMP063": {
+    "id": "IMP063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP063.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP064": {
+    "id": "IMP064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP064.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP065": {
+    "id": "IMP065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP065.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP066": {
+    "id": "IMP066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP066.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP067": {
+    "id": "IMP067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP067.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP068": {
+    "id": "IMP068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP068.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP069": {
+    "id": "IMP069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP069.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP070": {
+    "id": "IMP070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP070.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP071": {
+    "id": "IMP071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP071.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP072": {
+    "id": "IMP072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP072.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP073": {
+    "id": "IMP073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP073.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP074": {
+    "id": "IMP074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP074.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP075": {
+    "id": "IMP075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP075.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP076": {
+    "id": "IMP076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP076.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP077": {
+    "id": "IMP077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP077.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP078": {
+    "id": "IMP078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP078.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP079": {
+    "id": "IMP079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP079.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP080": {
+    "id": "IMP080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP080.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP081": {
+    "id": "IMP081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP081.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP082": {
+    "id": "IMP082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP082.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP083": {
+    "id": "IMP083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP083.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP084": {
+    "id": "IMP084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP084.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP085": {
+    "id": "IMP085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP085.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP086": {
+    "id": "IMP086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP086.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP087": {
+    "id": "IMP087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP087.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP088": {
+    "id": "IMP088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP088.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP089": {
+    "id": "IMP089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP089.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP090": {
+    "id": "IMP090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP090.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP091": {
+    "id": "IMP091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP091.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP092": {
+    "id": "IMP092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP092.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP093": {
+    "id": "IMP093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP093.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP094": {
+    "id": "IMP094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP094.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP095": {
+    "id": "IMP095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP095.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP096": {
+    "id": "IMP096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP096.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP097": {
+    "id": "IMP097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ashfang Raider",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP097.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ashfang Raider",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP098": {
+    "id": "IMP098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ashfang Scout",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP098.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ashfang Scout",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP099": {
+    "id": "IMP099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP099.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP100": {
+    "id": "IMP100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP100.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP101": {
+    "id": "IMP101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frenzied Firedancer ",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP101.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frenzied Firedancer ",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP102": {
+    "id": "IMP102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP102.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP103": {
+    "id": "IMP103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kobold Runt",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP103.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kobold Runt",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "IMP104": {
+    "id": "IMP104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightfoot Outrider",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP104.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightfoot Outrider",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "IMP105": {
+    "id": "IMP105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP105.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP106": {
+    "id": "IMP106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ragetusk",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP106.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ragetusk",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP107": {
+    "id": "IMP107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reckless Warrior",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP107.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reckless Warrior",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP108": {
+    "id": "IMP108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP108.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP109": {
+    "id": "IMP109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruins Looter",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP109.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruins Looter",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP110": {
+    "id": "IMP110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP110.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP111": {
+    "id": "IMP111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP111.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP112": {
+    "id": "IMP112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP112.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP113": {
+    "id": "IMP113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyrmscar Dragon",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP113.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyrmscar Dragon",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "IMP114": {
+    "id": "IMP114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP114.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP115": {
+    "id": "IMP115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP115.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP116": {
+    "id": "IMP116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP116.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP117": {
+    "id": "IMP117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mark of Death",
+        "type": "Tactic",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP117.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mark of Death ",
+    "type": "Tactic",
+    "cost": "4"
+  },
+  "IMP118": {
+    "id": "IMP118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP118.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP119": {
+    "id": "IMP119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rocket Barrage",
+        "type": "Tactic",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP119.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rocket Barrage ",
+    "type": "Tactic",
+    "cost": "2"
+  },
+  "IMP120": {
+    "id": "IMP120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP120.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP121": {
+    "id": "IMP121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enrage",
+        "type": "Tactic",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP121.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enrage",
+    "type": "Tactic",
+    "cost": "1"
+  },
+  "IMP122": {
+    "id": "IMP122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP122.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP123": {
+    "id": "IMP123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP123.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP124": {
+    "id": "IMP124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP124.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP125": {
+    "id": "IMP125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP125.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP126": {
+    "id": "IMP126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wyrmscar Peaks",
+        "type": "Territory",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP126.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wyrmscar Peaks",
+    "type": "Territory",
+    "cost": "1"
+  },
+  "IMP127": {
+    "id": "IMP127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP127.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP128": {
+    "id": "IMP128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP128.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP129": {
+    "id": "IMP129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elorhain Elite Guard",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP129.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elorhain Elite Guard",
+    "type": "Unit",
+    "cost": "5"
+  },
+  "IMP130": {
+    "id": "IMP130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP130.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP131": {
+    "id": "IMP131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grove Shaman",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP131.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grove Shaman",
+    "type": "Unit",
+    "cost": "3"
+  },
+  "IMP132": {
+    "id": "IMP132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP132.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP133": {
+    "id": "IMP133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP133.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP134": {
+    "id": "IMP134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kitsune Blademaiden",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP134.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kitsune Blademaiden",
+    "type": "Unit",
+    "cost": "2"
+  },
+  "IMP135": {
+    "id": "IMP135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP135.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP136": {
+    "id": "IMP136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP136.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP137": {
+    "id": "IMP137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP137.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP138": {
+    "id": "IMP138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP138.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP139": {
+    "id": "IMP139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP139.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP140": {
+    "id": "IMP140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sylvan Trainee",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP140.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sylvan Trainee",
+    "type": "Unit",
+    "cost": "1"
+  },
+  "IMP141": {
+    "id": "IMP141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP141.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP142": {
+    "id": "IMP142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP142.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP143": {
+    "id": "IMP143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP143.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP144": {
+    "id": "IMP144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP144.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP145": {
+    "id": "IMP145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP145.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP146": {
+    "id": "IMP146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP146.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP147": {
+    "id": "IMP147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP147.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP148": {
+    "id": "IMP148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP148.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP149": {
+    "id": "IMP149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP149.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP150": {
+    "id": "IMP150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Last Stand ",
+        "type": "Tactic",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP150.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Last Stand",
+    "type": "Tactic",
+    "cost": "2"
+  },
+  "IMP151": {
+    "id": "IMP151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Swift Acrobatics",
+        "type": "Tactic",
+        "cost": "2",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP151.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swift Acrobatics",
+    "type": "Tactic",
+    "cost": "2"
+  },
+  "IMP152": {
+    "id": "IMP152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP152.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP153": {
+    "id": "IMP153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP153.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP154": {
+    "id": "IMP154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moonwhisper Heirloom",
+        "type": "Item",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP154.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moonwhisper Heirloom",
+    "type": "Item",
+    "cost": "1"
+  },
+  "IMP155": {
+    "id": "IMP155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aegis Guardian",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP155.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aegis Guardian",
+    "type": "Unit",
+    "cost": "4"
+  },
+  "IMP156": {
+    "id": "IMP156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Entangling Wilds",
+        "type": "Territory",
+        "cost": "1",
+        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP156.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Entangling Wilds",
+    "type": "Territory",
+    "cost": "1"
+  },
+  "TOK001": {
+    "id": "TOK001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Experiment Token",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/echosofastra/experiment.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experiment Token",
+    "type": "Token",
+    "cost": 0
+  },
+  "TOK002": {
+    "id": "TOK002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drone ",
+        "type": "Token",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/echosofastra/drone.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drone",
+    "type": "Token",
+    "cost": 0
+  }
+}
