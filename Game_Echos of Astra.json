@@ -65,7 +65,6 @@
         "customSections": [
           "CA2",
           "Staging",
-          "Graveyard ",
           "Supply",
           "CA1",
           "CA3"
@@ -128,17 +127,6 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Deck",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -157,17 +145,6 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Graveyard",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -178,38 +155,6 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Banish": {
-            "title": "Banish",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Graveyard": {
-            "title": "Graveyard",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "CA1": {
             "title": "CA1",
             "isHidden": "no",
