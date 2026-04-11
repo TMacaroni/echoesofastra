@@ -2,7 +2,7 @@
   "name": "Echos of Astra",
   "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.webp",
   "defaultRessources": {
-    "backgrounds": ["https://tmacaroni.github.io/echosofastra/playmat/playmat1.avif"],
+    "backgrounds": ["https://tmacaroni.github.io/echosofastra/playmat/playmat1.png"],
     "decksUrl": "https://tmacaroni.github.io/echosofastra/StarterDecks.json"
   },
   "customHelp": "",
