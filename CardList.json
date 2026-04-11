@@ -1,2530 +1,2402 @@
 {
   "IMP001": {
     "id": "IMP001",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Assimilating Abomination",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP001.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP001_AssimilatingAbomination_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Assimilating Abomination",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP002": {
     "id": "IMP002",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Cadaver Supplier ",
+        "name": "Cadaver Supplier",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP002.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP002_CadaverSupplier_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Cadaver Supplier ",
+    "name": "Cadaver Supplier",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP003": {
     "id": "IMP003",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Calico, the Blood Witch ",
+        "name": "Calico, the Blood Witch",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP003.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP003_Calico,theBloodWitch_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Calico, the Blood Witch ",
+    "name": "Calico, the Blood Witch",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP004": {
     "id": "IMP004",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Demonic Berserker ",
+        "name": "Demonic Berserker",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP004.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP004_DemonicBerserker_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Demonic Berserker ",
+    "name": "Demonic Berserker",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP005": {
     "id": "IMP005",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Dreadscythe Myrmidon",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP005.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP005_DreadscytheMyrmidon_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Dreadscythe Myrmidon",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP006": {
     "id": "IMP006",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Ebonblight Invoker",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP006.jpg",
+        "cost": 7,
+        "image": "https://assets.echoesofastra.com/cards/IMP006_EbonblightInvoker_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Ebonblight Invoker",
     "type": "Unit",
-    "cost": "4"
+    "cost": 7
   },
   "IMP007": {
     "id": "IMP007",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Guinea Pig",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP007.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP007_GuineaPig_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Guinea Pig",
     "type": "Unit",
-    "cost": "4"
+    "cost": 1
   },
   "IMP008": {
     "id": "IMP008",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Hellfire Ravager",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP008.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP008_HellfireRavager_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Hellfire Ravager",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP009": {
     "id": "IMP009",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Jormun, Feldragon of Wyrmscar",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP009.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP009_Jormun,FeldragonofWyrmscar_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Jormun, Feldragon of Wyrmscar",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP010": {
     "id": "IMP010",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Lucille, Blood Baroness",
         "type": "Unit",
-        "cost": "6",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP010.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP010_Lucille,BloodBaroness_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Lucille, Blood Baroness ",
+    "name": "Lucille, Blood Baroness",
     "type": "Unit",
-    "cost": "6"
+    "cost": 6
   },
   "IMP011": {
     "id": "IMP011",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Nerezza, Umbrasco Scion",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP011.jpg",
+        "cost": 8,
+        "image": "https://assets.echoesofastra.com/cards/IMP011_Nerezza,UmbrascoScion_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Nerezza, Umbrasco Scion",
     "type": "Unit",
-    "cost": "4"
+    "cost": 8
   },
   "IMP012": {
     "id": "IMP012",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Nocturne Agent",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP012.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP012_NocturneAgent_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Nocturne Agent",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP013": {
     "id": "IMP013",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Noxhaven Enforcer",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP013.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP013_NoxhavenEnforcer_web.png",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Enforcer",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP014": {
     "id": "IMP014",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Noxhaven Researcher",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP014.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP014_NoxhavenResearcher_web.png",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Researcher",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP015": {
     "id": "IMP015",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Tenebrosa, Destroyer of Hope",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP015.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP015_Tenebrosa,DestroyerofHope_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Tenebrosa, Destroyer of Hope",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP016": {
     "id": "IMP016",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Valrathian Commissar",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP016.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP016_ValrathianCommissar_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Valrathian Commissar",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP017": {
     "id": "IMP017",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Valrathian Zealot",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP017.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP017_ValrathianZealot_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Valrathian Zealot",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP018": {
     "id": "IMP018",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Vampire Retainer",
         "type": "Unit",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP018.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP018_VampireRetainer_web.png",
         "isHorizontal": false
       }
     },
     "name": "Vampire Retainer",
     "type": "Unit",
-    "cost": "1"
+    "cost": 1
   },
   "IMP019": {
     "id": "IMP019",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Vermillion, Ghastly Researcher",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP019.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP019_Vermillion,GhastlyResearcher_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Vermillion, Ghastly Researcher ",
+    "name": "Vermillion, Ghastly Researcher",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP020": {
     "id": "IMP020",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP020.jpg",
+        "name": "Contagious Disposal",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP020_ContagiousDisposal_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Contagious Disposal",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP021": {
     "id": "IMP021",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP021.jpg",
+        "name": "Demonic Advance",
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP021_DemonicAdvance_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Demonic Advance",
+    "type": "Tactic",
+    "cost": 1
   },
   "IMP022": {
     "id": "IMP022",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP022.jpg",
+        "name": "Exterminate",
+        "type": "Tactic",
+        "cost": 8,
+        "image": "https://assets.echoesofastra.com/cards/IMP022_Exterminate_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Exterminate",
+    "type": "Tactic",
+    "cost": 8
   },
   "IMP023": {
     "id": "IMP023",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP023.jpg",
+        "name": "Eye for an Eye",
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP023_EyeforanEye_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Eye for an Eye",
+    "type": "Tactic",
+    "cost": 4
   },
   "IMP024": {
     "id": "IMP024",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Unethical Research",
         "type": "Tactic",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP024.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP024_UnethicalResearch_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Unethical Research ",
+    "name": "Unethical Research",
     "type": "Tactic",
-    "cost": "2"
+    "cost": 2
   },
   "IMP025": {
     "id": "IMP025",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP025.jpg",
+        "name": "Blinding Mist",
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP025_BlindingMist_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Blinding Mist",
+    "type": "Tactic",
+    "cost": 1
   },
   "IMP026": {
     "id": "IMP026",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Killing Blow",
         "type": "Tactic",
-        "cost": "5",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP026.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP026_KillingBlow_web.png",
         "isHorizontal": false
       }
     },
     "name": "Killing Blow",
     "type": "Tactic",
-    "cost": "5"
+    "cost": 5
   },
   "IMP027": {
     "id": "IMP027",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Quash Insurrection",
         "type": "Tactic",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP027.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP027_QuashInsurrection_web.png",
         "isHorizontal": false
       }
     },
     "name": "Quash Insurrection",
     "type": "Tactic",
-    "cost": "2"
+    "cost": 2
   },
   "IMP028": {
     "id": "IMP028",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Experimental Augment",
         "type": "Item",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP028.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP028_ExperimentalAugment_web.png",
         "isHorizontal": false
       }
     },
     "name": "Experimental Augment",
     "type": "Item",
-    "cost": "4"
+    "cost": 4
   },
   "IMP029": {
     "id": "IMP029",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Explosive Augment",
         "type": "Item",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP029.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP029_ExplosiveAugment_web.png",
         "isHorizontal": false
       }
     },
     "name": "Explosive Augment",
     "type": "Item",
-    "cost": "2"
+    "cost": 2
   },
   "IMP030": {
     "id": "IMP030",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP030.jpg",
+        "name": "Blighted Ruins",
+        "type": "Territory",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP030_BlightedRuins_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Blighted Ruins",
+    "type": "Territory",
+    "cost": 3
   },
   "IMP031": {
     "id": "IMP031",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Noxhaven Laboratory ",
+        "name": "Noxhaven Laboratory",
         "type": "Territory",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP031.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP031_NoxhavenLaboratory_web.png",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Laboratory",
     "type": "Territory",
-    "cost": "2"
+    "cost": 2
   },
   "IMP032": {
     "id": "IMP032",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP032.jpg",
+        "name": "The Hideout",
+        "type": "Territory",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP032_TheHideout_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "The Hideout",
+    "type": "Territory",
+    "cost": 4
   },
   "IMP033": {
     "id": "IMP033",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Aegis Defender",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP033.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP033_AegisDefender_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Aegis Defender",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP034": {
     "id": "IMP034",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Aegis Guardian",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP034.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP034_AegisGuardian_web.png",
         "isHorizontal": false
       }
     },
     "name": "Aegis Guardian",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP035": {
     "id": "IMP035",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Argentum Tank",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP035.jpg",
+        "cost": 7,
+        "image": "https://assets.echoesofastra.com/cards/IMP035_ArgentumTank_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Argentum Tank",
     "type": "Unit",
-    "cost": "4"
+    "cost": 7
   },
   "IMP036": {
     "id": "IMP036",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Armored Carrier",
         "type": "Unit",
-        "cost": "6",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP036.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP036_ArmoredCarrier_web.png",
         "isHorizontal": false
       }
     },
     "name": "Armored Carrier",
     "type": "Unit",
-    "cost": "6"
+    "cost": 6
   },
   "IMP037": {
     "id": "IMP037",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Banner Squire",
         "type": "Unit",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP037.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP037_BannerSquire_web.png",
         "isHorizontal": false
       }
     },
     "name": "Banner Squire",
     "type": "Unit",
-    "cost": "1"
+    "cost": 1
   },
   "IMP038": {
     "id": "IMP038",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Biscuit, Ever Vigilant",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP038.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP038_Biscuit,EverVigilant_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Biscuit, Ever Vigilant",
     "type": "Unit",
-    "cost": "4"
+    "cost": 1
   },
   "IMP039": {
     "id": "IMP039",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Bladewolf Templar",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP039.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP039_BladewolfTemplar_web.png",
         "isHorizontal": false
       }
     },
     "name": "Bladewolf Templar",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP040": {
     "id": "IMP040",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Brynn, the Destroyer",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP040.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP040_Brynn,theDestroyer_web.png",
         "isHorizontal": false
       }
     },
     "name": "Brynn, the Destroyer",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP041": {
     "id": "IMP041",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Celeste, Concord Paladin",
         "type": "Unit",
-        "cost": "5",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP041.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP041_Celeste,ConcordPaladin_web.png",
         "isHorizontal": false
       }
     },
     "name": "Celeste, Concord Paladin",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP042": {
     "id": "IMP042",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Concord Strategist",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP042.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP042_ConcordStrategist_web.png",
         "isHorizontal": false
       }
     },
     "name": "Concord Strategist",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP043": {
     "id": "IMP043",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Farsight Operative",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP043.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP043_FarsightOperative_web.png",
         "isHorizontal": false
       }
     },
     "name": "Farsight Operative",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP044": {
     "id": "IMP044",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Frontline Officer",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP044.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP044_FrontlineOfficer_web.png",
         "isHorizontal": false
       }
     },
     "name": "Frontline Officer",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP045": {
     "id": "IMP045",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Nekora Medic",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP045.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP045_NekoraMedic_web.png",
         "isHorizontal": false
       }
     },
     "name": "Nekora Medic",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP046": {
     "id": "IMP046",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Selena, Voice of Unity",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP046.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP046_Selena,VoiceofUnity_web.png",
         "isHorizontal": false
       }
     },
     "name": "Selena, Voice of Unity",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP047": {
     "id": "IMP047",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Sentinel Trooper",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP047.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP047_SentinelTrooper_web.png",
         "isHorizontal": false
       }
     },
     "name": "Sentinel Trooper",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP048": {
     "id": "IMP048",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Seraphiel, Herald of Light",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP048.jpg",
+        "cost": 7,
+        "image": "https://assets.echoesofastra.com/cards/IMP048_Seraphiel,HeraldofLight_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Seraphiel, Herald of Light",
     "type": "Unit",
-    "cost": "4"
+    "cost": 7
   },
   "IMP049": {
     "id": "IMP049",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Stormhammer Howitzer",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP049.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP049_StormhammerHowitzer_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Stormhammer Howitzer",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP050": {
     "id": "IMP050",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Vanguard Mech",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP050.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP050_VanguardMech_web.png",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Mech",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP051": {
     "id": "IMP051",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Vero, Captain of the Guard ",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP051.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP051_Vero,CaptainoftheGuard_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Vero, Captain of the Guard ",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP052": {
     "id": "IMP052",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Artillery Barrage",
         "type": "Tactic",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP052.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP052_ArtilleryBarrage_web.png",
         "isHorizontal": false
       }
     },
     "name": "Artillery Barrage",
     "type": "Tactic",
-    "cost": "3"
+    "cost": 3
   },
   "IMP053": {
     "id": "IMP053",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Community Effort",
         "type": "Tactic",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP053.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP053_CommunityEffort_web.png",
         "isHorizontal": false
       }
     },
     "name": "Community Effort",
     "type": "Tactic",
-    "cost": "3"
+    "cost": 3
   },
   "IMP054": {
     "id": "IMP054",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP054.jpg",
+        "name": "Resuscitate",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP054_Resuscitate_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Resuscitate",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP055": {
     "id": "IMP055",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Smokescreen",
         "type": "Tactic",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP055.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP055_Smokescreen_web.png",
         "isHorizontal": false
       }
     },
     "name": "Smokescreen",
     "type": "Tactic",
-    "cost": "1"
+    "cost": 1
   },
   "IMP056": {
     "id": "IMP056",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Supression",
+        "name": "Suppression",
         "type": "Tactic",
-        "cost": "6",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP056.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP056_Suppression_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Supression",
+    "name": "Suppression",
     "type": "Tactic",
-    "cost": "6"
+    "cost": 6
   },
   "IMP057": {
     "id": "IMP057",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP057.jpg",
+        "name": "Emergency Extraction",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP057_EmergencyExtraction_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Emergency Extraction",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP058": {
     "id": "IMP058",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP058.jpg",
+        "name": "Muster for Battle",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP058_MusterforBattle_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Muster for Battle",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP059": {
     "id": "IMP059",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP059.jpg",
+        "name": "Pulseguard Armor",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP059_PulseguardArmor_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Pulseguard Armor",
+    "type": "Item",
+    "cost": 2
   },
   "IMP060": {
     "id": "IMP060",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Vanguard Power Suit",
         "type": "Item",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP060.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP060_VanguardPowerSuit_web.png",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Power Suit",
     "type": "Item",
-    "cost": "4"
+    "cost": 4
   },
   "IMP061": {
     "id": "IMP061",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP061.jpg",
+        "name": "Fortuna Bank",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP061_FortunaBank_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Fortuna Bank",
+    "type": "Territory",
+    "cost": 2
   },
   "IMP062": {
     "id": "IMP062",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Hallowed Sanctum",
         "type": "Territory",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP062.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP062_HallowedSanctum_web.png",
         "isHorizontal": false
       }
     },
     "name": "Hallowed Sanctum",
     "type": "Territory",
-    "cost": "2"
+    "cost": 2
   },
   "IMP063": {
     "id": "IMP063",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP063.jpg",
+        "name": "Quarantine Zone",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP063_QuarantineZone_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Quarantine Zone",
+    "type": "Territory",
+    "cost": 2
   },
   "IMP064": {
     "id": "IMP064",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Cloudbreach Leviathan",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP064.jpg",
+        "cost": 8,
+        "image": "https://assets.echoesofastra.com/cards/IMP064_CloudbreachLeviathan_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Cloudbreach Leviathan",
     "type": "Unit",
-    "cost": "4"
+    "cost": 8
   },
   "IMP065": {
     "id": "IMP065",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Courier Drone",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP065.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP065_CourierDrone_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Courier Drone",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP066": {
     "id": "IMP066",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Genesis III, Deus Volare",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP066.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP066_GenesisIII,DeusVolare_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Genesis III, Deus Volare",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP067": {
     "id": "IMP067",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Imperial Skyfortress",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP067.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP067_ImperialSkyfortress_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Imperial Skyfortress",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP068": {
     "id": "IMP068",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Inquisition Drone",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP068.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP068_InquisitionDrone_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Inquisition Drone",
     "type": "Unit",
-    "cost": "4"
+    "cost": 1
   },
   "IMP069": {
     "id": "IMP069",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Levitar Cavalry",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP069.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP069_LevitarCavalry_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Levitar Cavalry",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP070": {
     "id": "IMP070",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Levitar Inquisitor",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP070.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP070_LevitarInquisitor_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Levitar Inquisitor",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP071": {
     "id": "IMP071",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Lockdown Enforcer",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP071.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP071_LockdownEnforcer_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Lockdown Enforcer",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP072": {
     "id": "IMP072",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Master Strategist",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP072.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP072_MasterStrategist_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Master Strategist",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP073": {
     "id": "IMP073",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Renata, Skyborne Orphan",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP073.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP073_Renata,SkyborneOrphan_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Renata, Skyborne Orphan",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP074": {
     "id": "IMP074",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Repulsive Experiment",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP074.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP074_RepulsiveExperiment_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Repulsive Experiment",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP075": {
     "id": "IMP075",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Skyblade Sentinel",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP075.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP075_SkybladeSentinel_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Skyblade Sentinel",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP076": {
     "id": "IMP076",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Skybreaker Gunship",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP076.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP076_SkybreakerGunship_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Skybreaker Gunship",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP077": {
     "id": "IMP077",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Synthal Vampire",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP077.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP077_SynthalVampire_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Synthal Vampire",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP078": {
     "id": "IMP078",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Valeria, Dragoon Knight",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP078.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP078_Valeria,DragoonKnight_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Valeria, Dragoon Knight",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP079": {
     "id": "IMP079",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Valrathian Dreadnought",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP079.jpg",
+        "cost": 9,
+        "image": "https://assets.echoesofastra.com/cards/IMP079_ValrathianDreadnought_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Valrathian Dreadnought",
     "type": "Unit",
-    "cost": "4"
+    "cost": 9
   },
   "IMP080": {
     "id": "IMP080",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Wandering Sky Merchant",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP080.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP080_WanderingSkyMerchant_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Wandering Sky Merchant",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP081": {
     "id": "IMP081",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Wingshield Transport",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP081.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP081_WingshieldTransport_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Wingshield Transport",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP082": {
     "id": "IMP082",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP082.jpg",
+        "name": "Airdrop",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP082_Airdrop_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Airdrop",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP083": {
     "id": "IMP083",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP083.jpg",
+        "name": "Breach the Dam",
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP083_BreachtheDam_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Breach the Dam",
+    "type": "Tactic",
+    "cost": 6
   },
   "IMP084": {
     "id": "IMP084",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP084.jpg",
+        "name": "Complex Stratagem",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP084_ComplexStratagem_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Complex Stratagem",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP085": {
     "id": "IMP085",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP085.jpg",
+        "name": "Forced Confession",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP085_ForcedConfession_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Forced Confession",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP086": {
     "id": "IMP086",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP086.jpg",
+        "name": "Rebound",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP086_Rebound_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Rebound",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP087": {
     "id": "IMP087",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP087.jpg",
+        "name": "Abandon the Lab",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP087_AbandontheLab_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Abandon the Lab",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP088": {
     "id": "IMP088",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP088.jpg",
+        "name": "Void Warp",
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP088_VoidWarp_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Void Warp",
+    "type": "Tactic",
+    "cost": 4
   },
   "IMP089": {
     "id": "IMP089",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP089.jpg",
+        "name": "Disruption Staff",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP089_DisruptionStaff_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Disruption Staff",
+    "type": "Item",
+    "cost": 2
   },
   "IMP090": {
     "id": "IMP090",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP090.jpg",
+        "name": "Drifter's Necklace",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP090_DriftersNecklace_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Drifter's Necklace",
+    "type": "Item",
+    "cost": 3
   },
   "IMP091": {
     "id": "IMP091",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP091.jpg",
+        "name": "Freight Module",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP091_FreightModule_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Freight Module",
+    "type": "Item",
+    "cost": 2
   },
   "IMP092": {
     "id": "IMP092",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP092.jpg",
+        "name": "Archive Ruins",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP092_ArchiveRuins_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Archive Ruins",
+    "type": "Territory",
+    "cost": 2
   },
   "IMP093": {
     "id": "IMP093",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP093.jpg",
+        "name": "Jamming Tower",
+        "type": "Territory",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP093_JammingTower_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Jamming Tower",
+    "type": "Territory",
+    "cost": 4
   },
   "IMP094": {
     "id": "IMP094",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP094.jpg",
+        "name": "Radar Beacon",
+        "type": "Territory",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP094_RadarBeacon_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Radar Beacon",
+    "type": "Territory",
+    "cost": 3
   },
   "IMP095": {
     "id": "IMP095",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP095.jpg",
+        "name": "Unyielding Storm",
+        "type": "Territory",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP095_UnyieldingStorm_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Unyielding Storm",
+    "type": "Territory",
+    "cost": 3
   },
   "IMP096": {
     "id": "IMP096",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Ashfang Pillager",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP096.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP096_AshfangPillager_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Ashfang Pillager",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP097": {
     "id": "IMP097",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Ashfang Raider",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP097.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP097_AshfangRaider_web.png",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Raider",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP098": {
     "id": "IMP098",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Ashfang Scout",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP098.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP098_AshfangScout_web.png",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Scout",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP099": {
     "id": "IMP099",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Emberfang Assassin",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP099.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP099_EmberfangAssassin_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Emberfang Assassin",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP100": {
     "id": "IMP100",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Fearless Whelp",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP100.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP100_FearlessWhelp_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Fearless Whelp",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP101": {
     "id": "IMP101",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Frenzied Firedancer ",
+        "name": "Frenzied Firedancer",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP101.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP101_FrenziedFiredancer_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Frenzied Firedancer ",
+    "name": "Frenzied Firedancer",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP102": {
     "id": "IMP102",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Hongzhen, the Scarlet Oracle",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP102.jpg",
+        "cost": 7,
+        "image": "https://assets.echoesofastra.com/cards/IMP102_Hongzhen,theScarletOracle_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Hongzhen, the Scarlet Oracle",
     "type": "Unit",
-    "cost": "4"
+    "cost": 7
   },
   "IMP103": {
     "id": "IMP103",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Kobold Runt",
         "type": "Unit",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP103.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP103_KoboldRunt_web.png",
         "isHorizontal": false
       }
     },
     "name": "Kobold Runt",
     "type": "Unit",
-    "cost": "1"
+    "cost": 1
   },
   "IMP104": {
     "id": "IMP104",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Lightfoot Outrider",
         "type": "Unit",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP104.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP104_LightfootOutrider_web.png",
         "isHorizontal": false
       }
     },
     "name": "Lightfoot Outrider",
     "type": "Unit",
-    "cost": "1"
+    "cost": 1
   },
   "IMP105": {
     "id": "IMP105",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Lingyi, the Gilded Prophet",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP105.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP105_Lingyi,theGildedProphet_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Lingyi, the Gilded Prophet",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP106": {
     "id": "IMP106",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Ragetusk",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP106.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP106_Ragetusk_web.png",
         "isHorizontal": false
       }
     },
     "name": "Ragetusk",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP107": {
     "id": "IMP107",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Reckless Warrior",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP107.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP107_RecklessWarrior_web.png",
         "isHorizontal": false
       }
     },
     "name": "Reckless Warrior",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP108": {
     "id": "IMP108",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Rockjaw, Fearless Gladiator",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP108.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP108_Rockjaw,FearlessGladiator_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Rockjaw, Fearless Gladiator",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP109": {
     "id": "IMP109",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Ruins Looter",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP109.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP109_RuinsLooter_web.png",
         "isHorizontal": false
       }
     },
     "name": "Ruins Looter",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP110": {
     "id": "IMP110",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Vainglory Reaver",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP110.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP110_VaingloryReaver_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Vainglory Reaver",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP111": {
     "id": "IMP111",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Varenthus, the Skyscourge",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP111.jpg",
+        "cost": 8,
+        "image": "https://assets.echoesofastra.com/cards/IMP111_Varenthus,theSkyscourge_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Varenthus, the Skyscourge",
     "type": "Unit",
-    "cost": "4"
+    "cost": 8
   },
   "IMP112": {
     "id": "IMP112",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Voracious Wyvern",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP112.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP112_VoraciousWyvern_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Voracious Wyvern",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP113": {
     "id": "IMP113",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Wyrmscar Dragon",
         "type": "Unit",
-        "cost": "5",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP113.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP113_WyrmscarDragon_web.png",
         "isHorizontal": false
       }
     },
     "name": "Wyrmscar Dragon",
     "type": "Unit",
-    "cost": "5"
+    "cost": 5
   },
   "IMP114": {
     "id": "IMP114",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Zhufeng, the Ember-Warden",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP114.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP114_Zhufeng,theEmber-Warden_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Zhufeng, the Ember-Warden",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP115": {
     "id": "IMP115",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP115.jpg",
+        "name": "Brand",
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP115_Brand_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Brand",
+    "type": "Tactic",
+    "cost": 1
   },
   "IMP116": {
     "id": "IMP116",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP116.jpg",
+        "name": "Lava Flow",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP116_LavaFlow_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Lava Flow",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP117": {
     "id": "IMP117",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Mark of Death",
         "type": "Tactic",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP117.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP117_MarkofDeath_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Mark of Death ",
+    "name": "Mark of Death",
     "type": "Tactic",
-    "cost": "4"
+    "cost": 4
   },
   "IMP118": {
     "id": "IMP118",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP118.jpg",
+        "name": "Ransack",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP118_Ransack_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Ransack",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP119": {
     "id": "IMP119",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Rocket Barrage",
         "type": "Tactic",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP119.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP119_RocketBarrage_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Rocket Barrage ",
+    "name": "Rocket Barrage",
     "type": "Tactic",
-    "cost": "2"
+    "cost": 2
   },
   "IMP120": {
     "id": "IMP120",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP120.jpg",
+        "name": "Uprising",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP120_Uprising_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Uprising",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP121": {
     "id": "IMP121",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Enrage",
         "type": "Tactic",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP121.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP121_Enrage_web.png",
         "isHorizontal": false
       }
     },
     "name": "Enrage",
     "type": "Tactic",
-    "cost": "1"
+    "cost": 1
   },
   "IMP122": {
     "id": "IMP122",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP122.jpg",
+        "name": "Glorybringer",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP122_Glorybringer_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Glorybringer",
+    "type": "Item",
+    "cost": 3
   },
   "IMP123": {
     "id": "IMP123",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP123.jpg",
+        "name": "Vengeance",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP123_Vengeance_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Vengeance",
+    "type": "Item",
+    "cost": 2
   },
   "IMP124": {
     "id": "IMP124",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP124.jpg",
+        "name": "Ashfang Rally Point",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP124_AshfangRallyPoint_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Ashfang Rally Point",
+    "type": "Territory",
+    "cost": 2
   },
   "IMP125": {
     "id": "IMP125",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP125.jpg",
+        "name": "Ruins of the Precursors",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP125_RuinsofthePrecursors_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Ruins of the Precursors",
+    "type": "Territory",
+    "cost": 2
   },
   "IMP126": {
     "id": "IMP126",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Wyrmscar Peaks",
         "type": "Territory",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Blood Pact Starter EOA/IMP126.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP126_WyrmscarPeaks_web.png",
         "isHorizontal": false
       }
     },
     "name": "Wyrmscar Peaks",
     "type": "Territory",
-    "cost": "1"
+    "cost": 1
   },
   "IMP127": {
     "id": "IMP127",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Akeno, Noble Samurai",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP127.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP127_Akeno,NobleSamurai_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Akeno, Noble Samurai",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP128": {
     "id": "IMP128",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Canopy Stalker",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP128.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP128_CanopyStalker_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Canopy Stalker",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP129": {
     "id": "IMP129",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Elorhain Elite Guard",
         "type": "Unit",
-        "cost": "5",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP129.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP129_ElorhainEliteGuard_web.png",
         "isHorizontal": false
       }
     },
     "name": "Elorhain Elite Guard",
     "type": "Unit",
-    "cost": "5"
+    "cost": 5
   },
   "IMP130": {
     "id": "IMP130",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Gaia, Lord of Nature",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP130.jpg",
+        "cost": 9,
+        "image": "https://assets.echoesofastra.com/cards/IMP130_Gaia,LordofNature_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Gaia, Lord of Nature",
     "type": "Unit",
-    "cost": "4"
+    "cost": 9
   },
   "IMP131": {
     "id": "IMP131",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Grove Shaman",
         "type": "Unit",
-        "cost": "3",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP131.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP131_GroveShaman_web.png",
         "isHorizontal": false
       }
     },
     "name": "Grove Shaman",
     "type": "Unit",
-    "cost": "3"
+    "cost": 3
   },
   "IMP132": {
     "id": "IMP132",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Ichor of the Verdant",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP132.jpg",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP132_IchoroftheVerdant_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Ichor of the Verdant",
     "type": "Unit",
-    "cost": "4"
+    "cost": 5
   },
   "IMP133": {
     "id": "IMP133",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "King Beneath the Canopy",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP133.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP133_KingBeneaththeCanopy_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "King Beneath the Canopy",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP134": {
     "id": "IMP134",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Kitsune Blademaiden",
         "type": "Unit",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP134.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP134_KitsuneBlademaiden_web.png",
         "isHorizontal": false
       }
     },
     "name": "Kitsune Blademaiden",
     "type": "Unit",
-    "cost": "2"
+    "cost": 2
   },
   "IMP135": {
     "id": "IMP135",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Nelduin, Hidden Blade",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP135.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP135_Nelduin,HiddenBlade_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Nelduin, Hidden Blade",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP136": {
     "id": "IMP136",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Raven Moonwhisper",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP136.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP136_RavenMoonwhisper_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Raven Moonwhisper",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP137": {
     "id": "IMP137",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Sundering Wyrm",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP137.jpg",
+        "cost": 6,
+        "image": "https://assets.echoesofastra.com/cards/IMP137_SunderingWyrm_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Sundering Wyrm",
     "type": "Unit",
-    "cost": "4"
+    "cost": 6
   },
   "IMP138": {
     "id": "IMP138",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Sylvan Archer",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP138.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP138_SylvanArcher_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Sylvan Archer",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP139": {
     "id": "IMP139",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Sylvan Rallier",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP139.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP139_SylvanRallier_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Sylvan Rallier",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP140": {
     "id": "IMP140",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Sylvan Trainee",
         "type": "Unit",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP140.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP140_SylvanTrainee_web.png",
         "isHorizontal": false
       }
     },
     "name": "Sylvan Trainee",
     "type": "Unit",
-    "cost": "1"
+    "cost": 1
   },
   "IMP141": {
     "id": "IMP141",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Verdant Protector",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP141.jpg",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP141_VerdantProtector_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Verdant Protector",
     "type": "Unit",
-    "cost": "4"
+    "cost": 4
   },
   "IMP142": {
     "id": "IMP142",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Windleaf Scout",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP142.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP142_WindleafScout_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Windleaf Scout",
     "type": "Unit",
-    "cost": "4"
+    "cost": 2
   },
   "IMP143": {
     "id": "IMP143",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Woodland Wanderer",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP143.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP143_WoodlandWanderer_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Woodland Wanderer",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP144": {
     "id": "IMP144",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
+        "name": "Yako Illusionist",
         "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP144.jpg",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP144_YakoIllusionist_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
+    "name": "Yako Illusionist",
     "type": "Unit",
-    "cost": "4"
+    "cost": 3
   },
   "IMP145": {
     "id": "IMP145",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP145.jpg",
+        "name": "Coordinated Strike",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP145_CoordinatedStrike_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Coordinated Strike",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP146": {
     "id": "IMP146",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP146.jpg",
+        "name": "Predatory Strike",
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP146_PredatoryStrike_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Predatory Strike",
+    "type": "Tactic",
+    "cost": 4
   },
   "IMP147": {
     "id": "IMP147",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP147.jpg",
+        "name": "Primordial Howl",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP147_PrimordialHowl_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Primordial Howl",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP148": {
     "id": "IMP148",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP148.jpg",
+        "name": "Spore Bloom",
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP148_SporeBloom_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Spore Bloom",
+    "type": "Tactic",
+    "cost": 2
   },
   "IMP149": {
     "id": "IMP149",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP149.jpg",
+        "name": "Canopy Ambush",
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP149_CanopyAmbush_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Canopy Ambush",
+    "type": "Tactic",
+    "cost": 3
   },
   "IMP150": {
     "id": "IMP150",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Last Stand ",
+        "name": "Last Stand",
         "type": "Tactic",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP150.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP150_LastStand_web.png",
         "isHorizontal": false
       }
     },
     "name": "Last Stand",
     "type": "Tactic",
-    "cost": "2"
+    "cost": 2
   },
   "IMP151": {
     "id": "IMP151",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Swift Acrobatics",
         "type": "Tactic",
-        "cost": "2",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP151.jpg",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP151_SwiftAcrobatics_web.png",
         "isHorizontal": false
       }
     },
     "name": "Swift Acrobatics",
     "type": "Tactic",
-    "cost": "2"
+    "cost": 2
   },
   "IMP152": {
     "id": "IMP152",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP152.jpg",
+        "name": "Caltrops",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP152_Caltrops_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Caltrops",
+    "type": "Item",
+    "cost": 2
   },
   "IMP153": {
     "id": "IMP153",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP153.jpg",
+        "name": "Lifecycle Katana",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP153_LifecycleKatana_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Lifecycle Katana",
+    "type": "Item",
+    "cost": 2
   },
   "IMP154": {
     "id": "IMP154",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Moonwhisper Heirloom",
         "type": "Item",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP154.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP154_MoonwhisperHeirloom_web.png",
         "isHorizontal": false
       }
     },
     "name": "Moonwhisper Heirloom",
     "type": "Item",
-    "cost": "1"
+    "cost": 1
   },
   "IMP155": {
     "id": "IMP155",
-    "isToken": false,
     "face": {
       "front": {
-        "name": "Aegis Guardian",
-        "type": "Unit",
-        "cost": "4",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP155.jpg",
+        "name": "Elorhain, the Ancestral Crown",
+        "type": "Territory",
+        "cost": 5,
+        "image": "https://assets.echoesofastra.com/cards/IMP155_Elorhain,theAncestralCrown_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Aegis Guardian",
-    "type": "Unit",
-    "cost": "4"
+    "name": "Elorhain, the Ancestral Crown",
+    "type": "Territory",
+    "cost": 5
   },
   "IMP156": {
     "id": "IMP156",
-    "isToken": false,
     "face": {
       "front": {
         "name": "Entangling Wilds",
         "type": "Territory",
-        "cost": "1",
-        "image": "https://tmacaroni.github.io/echosofastra/img/Unity Starter EOA/IMP156.jpg",
+        "cost": 1,
+        "image": "https://assets.echoesofastra.com/cards/IMP156_EntanglingWilds_web.png",
         "isHorizontal": false
       }
     },
     "name": "Entangling Wilds",
     "type": "Territory",
-    "cost": "1"
+    "cost": 1
   },
-  "TOK001": {
-    "id": "TOK001",
-    "isToken": true,
+  "IMP157": {
+    "id": "IMP157",
     "face": {
       "front": {
-        "name": "Experiment Token",
-        "type": "Token",
-        "cost": 0,
-        "image": "https://tmacaroni.github.io/echosofastra/experiment.jpg",
+        "name": "Escape Route",
+        "type": "Territory",
+        "cost": 2,
+        "image": "https://assets.echoesofastra.com/cards/IMP157_EscapeRoute_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Experiment Token",
-    "type": "Token",
-    "cost": 0
+    "name": "Escape Route",
+    "type": "Territory",
+    "cost": 2
   },
-  "TOK002": {
-    "id": "TOK002",
-    "isToken": true,
+  "IMP158": {
+    "id": "IMP158",
     "face": {
       "front": {
-        "name": "Drone ",
-        "type": "Token",
-        "cost": 0,
-        "image": "https://tmacaroni.github.io/echosofastra/drone.jpg",
+        "name": "Overgrown Factory",
+        "type": "Territory",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP158_OvergrownFactory_web.png",
         "isHorizontal": false
       }
     },
-    "name": "Drone",
-    "type": "Token",
-    "cost": 0
+    "name": "Overgrown Factory",
+    "type": "Territory",
+    "cost": 3
+  },
+  "IMP159": {
+    "id": "IMP159",
+    "face": {
+      "front": {
+        "name": "Excavator",
+        "type": "Unit",
+        "cost": 4,
+        "image": "https://assets.echoesofastra.com/cards/IMP159_Excavator_web.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Excavator",
+    "type": "Unit",
+    "cost": 4
+  },
+  "IMP160": {
+    "id": "IMP160",
+    "face": {
+      "front": {
+        "name": "Supply Carrier",
+        "type": "Unit",
+        "cost": 3,
+        "image": "https://assets.echoesofastra.com/cards/IMP160_SupplyCarrier_web.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supply Carrier",
+    "type": "Unit",
+    "cost": 3
   }
 }
