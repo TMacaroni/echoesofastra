@@ -31,7 +31,11 @@
     "name": "Cadaver Supplier",
     "type": "Unit",
     "cost": 3,
-    "affinity": "Nox"
+    "affinity": "Nox",
+      "tokens": [
+      "TOK001"
+    ]
+  
   },
   "IMP003": {
     "id": "IMP003",
@@ -167,7 +171,10 @@
     "name": "Lucille, Blood Baroness",
     "type": "Unit",
     "cost": 6,
-    "affinity": "Nox"
+    "affinity": "Nox",
+     "tokens": [
+      "TOK001"
+    ]
   },
   "IMP011": {
     "id": "IMP011",
@@ -218,7 +225,10 @@
     "name": "Noxhaven Enforcer",
     "type": "Unit",
     "cost": 3,
-    "affinity": "Nox"
+    "affinity": "Nox",
+ "tokens": [
+      "TOK001"
+    ]
   },
   "IMP014": {
     "id": "IMP014",
@@ -337,7 +347,10 @@
     "name": "Contagious Disposal",
     "type": "Tactic",
     "cost": 2,
-    "affinity": "Nox"
+    "affinity": "Nox",
+     "tokens": [
+      "TOK001"
+    ]
   },
   "IMP021": {
     "id": "IMP021",
@@ -609,7 +622,10 @@
     "name": "Armored Carrier",
     "type": "Unit",
     "cost": 6,
-    "affinity": "Lux"
+    "affinity": "Lux",
+     "tokens": [
+      "TOK002"
+    ]
   },
   "IMP037": {
     "id": "IMP037",
@@ -745,7 +761,10 @@
     "name": "Frontline Officer",
     "type": "Unit",
     "cost": 3,
-    "affinity": "Lux"
+    "affinity": "Lux",
+     "tokens": [
+      "TOK001"
+    ]
   },
   "IMP045": {
     "id": "IMP045",
