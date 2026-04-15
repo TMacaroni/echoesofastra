@@ -1,16 +1,16 @@
 {
-  "name": "Echos of Astra",
-  "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.webp",
+  "name": "Echoes of Astra",
+  "menuBackgroundImage": "https://tmacaroni.github.io/echoesofastra/echoesofastrabackground.webp",
   "defaultRessources": {
     "backgrounds": [
-      "https://tmacaroni.github.io/echosofastra/playmat/playmat1.png"
+      "https://tmacaroni.github.io/echoesofastra/playmat/playmat1.png"
     ],
-    "decksUrl": "https://tmacaroni.github.io/echosofastra/StarterDecks.json"
+    "decksUrl": "https://tmacaroni.github.io/echoesofastra/StarterDecks.json"
   },
   "customHelp": " If you are new to the game, you can find the rules here : https://rules.echoesofastra.com/",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://tmacaroni.github.io/echosofastra/CardList.json",
+    "dataUrl": "https://tmacaroni.github.io/echoesofastra/CardList.json",
     "cardBack": "https://assets.echoesofastra.com/icons/CardTemplate_CardBack.png"
   },
   "deckBuilding": {
